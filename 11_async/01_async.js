@@ -1,0 +1,3 @@
+//javascript =>synchronous
+//           =>single thread
+
